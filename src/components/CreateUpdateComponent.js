@@ -161,7 +161,7 @@ const CreateUpdateComponent = () => {
                     onChange={handleInputReadOnlyChange}
                   />
                   <label class="form-check-label" for="exampleCheck1">
-                    <b>Read Only</b>
+                    <b>Node Updating</b>
                   </label>
                 </div>
 
